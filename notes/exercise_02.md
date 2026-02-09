@@ -21,3 +21,8 @@
 
 # Kimenet (Mi készült el):
 Elkészítettem egy programot ami kiírja a mondat összes szavát, összes karakterét, legnagyobb számu szavát és a legnagyobb számu szó karakterét
+
+# Mi a különbség int, float, str között.
+- int: teljes szám nincs maradék,
+- float: maradékos számítás,
+- str: betűk, szavak.

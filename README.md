@@ -5,6 +5,8 @@ Szeretném megtanulni először is a python-t az alapoktól.
 exercise_01 kész
 exercise_02 kész
 exercise_03 kész
+exercise_04 kész
+exercise_05 kész
 
 ### sablon
 

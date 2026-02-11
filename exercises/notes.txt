@@ -1,0 +1,2 @@
+Tisztítás Előtt: 20
+Tisztítás Után: 12
